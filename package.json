@@ -1,0 +1,31 @@
+{
+  "name": "cross-clear",
+  "version": "1.0.0",
+  "description": "Modern cross-platform terminal screen clearing.",
+  "main": "index.js",
+  "bin": {
+    "cross-clear": "bin.js"
+  },
+  "keywords": [
+    "clear",
+    "cls",
+    "screen",
+    "terminal",
+    "term",
+    "shell",
+    "stdout"
+  ],
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/cross-clear.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/cross-clear/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/cross-clear"
+}
